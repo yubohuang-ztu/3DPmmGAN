@@ -1,0 +1,2 @@
+1. Run 'create_training_images.py' to obtain sub-volume samples (hdf5).
+2. Run 'dataset_h5_tool.py' 
