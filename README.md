@@ -33,4 +33,5 @@ python dataset_h5_tool.py create_from_hdf5 output input
  - A pre-trained model of 96 resolution: https://drive.google.com/file/d/1JiAwHQouM5Omlmubsw98FBXXwMw02llh/view?usp=sharing
 
 ## Acknowledgement
-The code used for our research is based on [StyleGAN](https://github.com/NVlabs/stylegan) and [PorousMediaGAN](https://github.com/LukasMosser/PorousMediaGan)
+The code used for our research is based on [StyleGAN](https://github.com/NVlabs/stylegan) and [PorousMediaGAN](https://github.com/LukasMosser/PorousMediaGan).
+The original samples used in this study are from [the collection of Imperial College London](https://www.imperial.ac.uk/earth-science/research/research-groups/perm/research/pore-scale-modelling-and-imaging/micro-ct-images-and-networks).
